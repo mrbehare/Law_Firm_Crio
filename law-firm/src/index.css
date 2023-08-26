@@ -18,3 +18,8 @@
   background-color:  rgba(17, 17, 17, 1);
   COLOR: var(--color-white);
   }
+
+  img,svg{
+    display: block;
+    max-width: 100%;
+  }
