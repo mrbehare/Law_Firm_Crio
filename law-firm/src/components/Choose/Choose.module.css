@@ -1,0 +1,23 @@
+.chooseWrapper {
+  width: 1139px;
+  height: 551px;
+  margin-top: 170px;
+}
+
+
+.chooseText {
+  display: flex;
+  justify-content: center;
+  height: 77px;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77px;
+  letter-spacing: 0em;
+}
+.chooseCard {
+  /* margin-left: 146px;
+  margin-right: 155 px; */
+  display: flex;
+  margin-top: 97px;
+  justify-content: space-between;
+}

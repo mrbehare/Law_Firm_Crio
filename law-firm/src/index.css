@@ -15,11 +15,42 @@
   
   html,body{
   height: 100%;
-  background-color:  rgba(17, 17, 17, 1);
+  background-color: #1D1D1D !important;
   COLOR: var(--color-white);
+  font-family: "inter" , sans-serif;
   }
 
   img,svg{
     display: block;
     max-width: 100%;
   }
+
+  .MuiAccordion-root{
+    background-color: #1D1D1D !important;
+    font-family:  "Inter",sans-serif !important;
+    color: var(--color-white) !important;
+    width: 100% !important;
+   
+  
+  }
+
+
+  .MuiAccordionSummary-expandIconWrapper{
+    background-color:#1D1D1D !important;
+  }
+  
+  .MuiAccordionDetails-root{
+    color: var(--color-white);
+    background-color:#1D1D1D !important;
+    opacity: 0.3;
+  }
+
+  .MuiAutocomplete-root .MuiInputBase-root{
+ 
+    background-color:#1D1D1D;
+      color: var(--color-white);
+      height: 48px;
+   
+
+}
+

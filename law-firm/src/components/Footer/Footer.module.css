@@ -1,0 +1,24 @@
+.wrapper {
+    display: flex;
+   
+  flex-direction: column;
+  
+  gap:102px;
+  background-color: rgba(23, 23, 23, 1);
+  
+}
+.navbarWrapper{
+    /* padding-top: 119px; */
+    margin-top: 142px;
+    margin-left: 164px;
+    margin-right: 142px;
+}
+.innerWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+font-size: 14px;
+font-weight: 400;
+margin-bottom: 99px;
+}

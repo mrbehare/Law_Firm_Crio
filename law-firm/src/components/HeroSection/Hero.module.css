@@ -13,16 +13,16 @@
     gap: 36px;
 }
 
-.heroText h2{ 
+.heroText>h2{ 
    width: 571;
 }
 
-.heroText h2{
+.heroText>h2{
     font-size: 66px;
     font-weight: 700;
 }
 
-.heroText p{
+.heroText>p{
     font-size: 18px;
     font-weight: 500;
     opacity: 0.3;
